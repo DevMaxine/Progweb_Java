@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(32, 17, 75);
+    margin-left: 7%;
+}
+body{
+    background-color: rgba(223, 137, 240);
+    font-family: sans-serif;
+    font-size: 1em;
+    margin-left: 36%;
+    margin-top: 2%;
+    justify-content: center;
+}
+.btn{
+    border-radius: 4px;
+    color: rgb(248, 248, 248);
+    background-color: rgb(226, 96, 96);
+}
+#barraDigitar{
+    background-color: rgb(182, 176, 104);
+    color: rgb(13, 19, 1);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
